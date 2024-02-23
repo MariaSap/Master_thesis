@@ -31,7 +31,7 @@ clear all
 clc
 close all
 
-mainFolder = '/Users/msapounaki/Dropbox/Studies/Master/Tübingen/Thesis/Code/Experiments';        % or ..../Code/Experiments_100ms
+mainFolder = '/Users/msapounaki/Dropbox/Studies/Master/Tübingen/Thesis/Code/Experiments_100ms';        % or ..../Code/Experiments_100ms
 subfolders  = dir(mainFolder);
 
 % Loop through each subfolder
